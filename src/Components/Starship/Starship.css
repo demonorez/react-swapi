@@ -1,0 +1,15 @@
+.starship {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  align-content: center;
+  width: 30%;
+  background-color: rgb(9, 49, 36);
+  color: white;
+  margin: 64px;
+  border: 1px solid black;
+}
+
+.link {
+  color: white;
+}
